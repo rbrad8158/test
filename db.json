@@ -1,8 +1,8 @@
 {
   "departments" : [
     {"id": "222",	
-     "BACKBONE_DEPT_NAME_L1": "Radiology",	
-     "BACKBONE_DEPT_CODE_L1": "400101",	
+     "BACKBONE_DEPT_NAME": "Radiology",	
+     "BACKBONE_DEPT_CODE": "400101",	
      "CRSO_FINAL_DEPT_NAME": "Radiology",	
      "IS_CENTER": "N",	
      "ORG_UNIT_TYPE": "Department"},
