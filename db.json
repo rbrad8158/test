@@ -20,19 +20,19 @@
       "CRAU_CODE":"RAD",
       "CRAU_ADMINISTRATOR":[{"user_id":"1"}],
       "LINKS": [
-        {"dept_id":"222", "name":"Radiology"},
-        {"dept_id":"223", "name":"Radiology - Research"},
-        {"dept_id":"224", "name":"Heart and Vascular - Vascular Interventional Radiology"},
-        {"dept_id":"225", "name":"Radiology - Breast Imaging"},
-        {"dept_id":"226", "name":"Radiology - Chest"},
-        {"dept_id":"227", "name":"Radiology - Interventional Neuroradiology"},
-        {"dept_id":"228", "name":"Radiology - Musculoskeletal Imaging"},
-        {"dept_id":"229", "name":"Radiology-Molecular Imaging and Therapeutics"},
-        {"dept_id":"230", "name":"Radiology - Neuroradiology"},
-        {"dept_id":"231", "name":"Radiology - Pediatric Imaging"},
-        {"dept_id":"232", "name":"Radiology - Residency Program"},
-        {"dept_id":"233", "name":"Radiology - Abdominal Imaging"},
-        {"dept_id":"410", "name":"Biomedical Research Imaging Center (BRIC)"}
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228",
+        "229",
+        "230",
+        "231",
+        "232",
+        "233",
+        "410"
       ]
     }
   ],
