@@ -10,7 +10,7 @@
       "CRAU_CODE":	"RAD"	
       "LINKS": [
         {"name":"Radiology"},
-        {"name":"Radiology - Research",
+        {"name":"Radiology - Research"},
         {"name":"Heart and Vascular - Vascular Interventional Radiology"},
         {"name":"Radiology - Breast Imaging"},
         {"name":"Radiology - Chest"},
