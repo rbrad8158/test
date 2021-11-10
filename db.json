@@ -1,7 +1,17 @@
 {
   "departments" : [
-    {"id": "1",	"BACKBONE_DEPT_NAME_L1": "AHEC - Administration - Program Office",	"BACKBONE_DEPT_CODE_L1": "400101",	"BACKBONE_DIV_NAME_L2": "Medical School Aircraft",	"BACKBONE_DIV_CODE_L2": "405001",	"CRSO_CRAU_NAME": "",	"CRSO_CRAU_CODE": "",	"CRSO_FINAL_DEPT_NAME": "Allied Health Sciences (AHS)",	"CRSO_FINAL_DIV_NAME": "Medical School Aircraft",	"IS_CENTER": "N",	"ORG_UNIT_TYPE": "Department"},
-    {"id": "2",	"BACKBONE_DEPT_NAME_L1": "AHEC - Administration - Program Office",	"BACKBONE_DEPT_CODE_L1": "400101",	"BACKBONE_DIV_NAME_L2": "AHEC - Administration - Program Office",	"BACKBONE_DIV_CODE_L2": "400101",	"CRSO_CRAU_NAME": "",	"CRSO_CRAU_CODE": "",	"CRSO_FINAL_DEPT_NAME": "Allied Health Sciences (AHS)",	"CRSO_FINAL_DIV_NAME": "AHEC - Administration - Program Office",	"IS_CENTER": "N",	"ORG_UNIT_TYPE": "Department"}
+    {"id": "222",	
+     "BACKBONE_DEPT_NAME_L1": "Radiology",	
+     "BACKBONE_DEPT_CODE_L1": "400101",	
+     "CRSO_FINAL_DEPT_NAME": "Radiology",	
+     "IS_CENTER": "N",	
+     "ORG_UNIT_TYPE": "Department"},
+    {"id":"410", 
+     "BACKBONE_DEPT_NAME": "Biomedical Research Imaging Center (BRIC)",	
+     "BACKBONE_DEPT_CODE": "426001",	
+     "CRSO_FINAL_DEPT_NAME": "Biomedical Research Imaging Center (BRIC)",	
+     "IS_CENTER": "Y",	
+     "ORG_UNIT_TYPE": "Center"}
   ],
   "crau": [
     {
@@ -9,20 +19,23 @@
       "CRAU_NAME":"Radiology",
       "CRAU_CODE":"RAD",	
       "LINKS": [
-        {"id":"222", "name":"Radiology"},
-        {"id":"223", "name":"Radiology - Research"},
-        {"id":"224", "name":"Heart and Vascular - Vascular Interventional Radiology"},
-        {"id":"225", "name":"Radiology - Breast Imaging"},
-        {"id":"226", "name":"Radiology - Chest"},
-        {"id":"227", "name":"Radiology - Interventional Neuroradiology"},
-        {"id":"228", "name":"Radiology - Musculoskeletal Imaging"},
-        {"id":"229", "name":"Radiology-Molecular Imaging and Therapeutics"},
-        {"id":"230", "name":"Radiology - Neuroradiology"},
-        {"id":"231", "name":"Radiology - Pediatric Imaging"},
-        {"id":"232", "name":"Radiology - Residency Program"},
-        {"id":"233", "name":"Radiology - Abdominal Imaging"},
-        {"id":"410", "name":"Biomedical Research Imaging Center (BRIC)"}
+        {"dept_id":"222", "name":"Radiology"},
+        {"dept_id":"223", "name":"Radiology - Research"},
+        {"dept_id":"224", "name":"Heart and Vascular - Vascular Interventional Radiology"},
+        {"dept_id":"225", "name":"Radiology - Breast Imaging"},
+        {"dept_id":"226", "name":"Radiology - Chest"},
+        {"dept_id":"227", "name":"Radiology - Interventional Neuroradiology"},
+        {"dept_id":"228", "name":"Radiology - Musculoskeletal Imaging"},
+        {"dept_id":"229", "name":"Radiology-Molecular Imaging and Therapeutics"},
+        {"dept_id":"230", "name":"Radiology - Neuroradiology"},
+        {"dept_id":"231", "name":"Radiology - Pediatric Imaging"},
+        {"dept_id":"232", "name":"Radiology - Residency Program"},
+        {"dept_id":"233", "name":"Radiology - Abdominal Imaging"},
+        {"dept_id":"410", "name":"Biomedical Research Imaging Center (BRIC)"}
       ]
     }
+  ],
+  "users" : [
+    {"id": "1", "name": "Robert Bradford", "dept_id": "222"}
   ]
 }
