@@ -5,23 +5,23 @@
   ],
   "crau": [
     {
-      "CRAU_ID":"7",	
+      "id":"7",	
       "CRAU_NAME":"Radiology",
       "CRAU_CODE":"RAD",	
       "LINKS": [
-        {"name":"Radiology"},
-        {"name":"Radiology - Research"},
-        {"name":"Heart and Vascular - Vascular Interventional Radiology"},
-        {"name":"Radiology - Breast Imaging"},
-        {"name":"Radiology - Chest"},
-        {"name":"Radiology - Interventional Neuroradiology"},
-        {"name":"Radiology - Musculoskeletal Imaging"},
-        {"name":"Radiology-Molecular Imaging and Therapeutics"},
-        {"name":"Radiology - Neuroradiology"},
-        {"name":"Radiology - Pediatric Imaging"},
-        {"name":"Radiology - Residency Program"},
-        {"name":"Radiology - Abdominal Imaging"},
-        {"name":"Biomedical Research Imaging Center (BRIC)"}
+        {"id":"222", "name":"Radiology"},
+        {"id":"223", "name":"Radiology - Research"},
+        {"id":"224", "name":"Heart and Vascular - Vascular Interventional Radiology"},
+        {"id":"225", "name":"Radiology - Breast Imaging"},
+        {"id":"226", "name":"Radiology - Chest"},
+        {"id":"227", "name":"Radiology - Interventional Neuroradiology"},
+        {"id":"228", "name":"Radiology - Musculoskeletal Imaging"},
+        {"id":"229", "name":"Radiology-Molecular Imaging and Therapeutics"},
+        {"id":"230", "name":"Radiology - Neuroradiology"},
+        {"id":"231", "name":"Radiology - Pediatric Imaging"},
+        {"id":"232", "name":"Radiology - Residency Program"},
+        {"id":"233", "name":"Radiology - Abdominal Imaging"},
+        {"id":"410", "name":"Biomedical Research Imaging Center (BRIC)"}
       ]
     }
   ]
