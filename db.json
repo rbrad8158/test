@@ -17,7 +17,8 @@
     {
       "id":"7",	
       "CRAU_NAME":"Radiology",
-      "CRAU_CODE":"RAD",	
+      "CRAU_CODE":"RAD",
+      "CRAU_ADMINISTRATOR":[{"user_id":"1"}],
       "LINKS": [
         {"dept_id":"222", "name":"Radiology"},
         {"dept_id":"223", "name":"Radiology - Research"},
