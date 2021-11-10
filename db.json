@@ -5,8 +5,8 @@
   ],
   "crau": [
     {
-      "CRAU_ID":7	
-      "CRAU_NAME": "Radiology"
+      "CRAU_ID":"7"	
+      "CRAU_NAME": "Radiology",
       "CRAU_CODE":	"RAD"	
       "LINKS": [
         {"name":"Radiology"},
