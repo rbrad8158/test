@@ -1,4 +1,6 @@
-[
-  {"id": "1",	"BACKBONE_DEPT_NAME_L1": "AHEC - Administration - Program Office",	"BACKBONE_DEPT_CODE_L1": "400101",	"BACKBONE_DIV_NAME_L2": "Medical School Aircraft",	"BACKBONE_DIV_CODE_L2": "405001",	"CRSO_CRAU_NAME": "",	"CRSO_CRAU_CODE": "",	"CRSO_FINAL_DEPT_NAME": "Allied Health Sciences (AHS)",	"CRSO_FINAL_DIV_NAME": "Medical School Aircraft",	"IS_CENTER": "N",	"ORG_UNIT_TYPE": "Department"},
-  {"id": "2",	"BACKBONE_DEPT_NAME_L1": "AHEC - Administration - Program Office",	"BACKBONE_DEPT_CODE_L1": "400101",	"BACKBONE_DIV_NAME_L2": "AHEC - Administration - Program Office",	"BACKBONE_DIV_CODE_L2": "400101",	"CRSO_CRAU_NAME": "",	"CRSO_CRAU_CODE": "",	"CRSO_FINAL_DEPT_NAME": "Allied Health Sciences (AHS)",	"CRSO_FINAL_DIV_NAME": "AHEC - Administration - Program Office",	"IS_CENTER": "N",	"ORG_UNIT_TYPE": "Department"}
-]
+{
+  "departments" : [
+    {"id": "1",	"BACKBONE_DEPT_NAME_L1": "AHEC - Administration - Program Office",	"BACKBONE_DEPT_CODE_L1": "400101",	"BACKBONE_DIV_NAME_L2": "Medical School Aircraft",	"BACKBONE_DIV_CODE_L2": "405001",	"CRSO_CRAU_NAME": "",	"CRSO_CRAU_CODE": "",	"CRSO_FINAL_DEPT_NAME": "Allied Health Sciences (AHS)",	"CRSO_FINAL_DIV_NAME": "Medical School Aircraft",	"IS_CENTER": "N",	"ORG_UNIT_TYPE": "Department"},
+    {"id": "2",	"BACKBONE_DEPT_NAME_L1": "AHEC - Administration - Program Office",	"BACKBONE_DEPT_CODE_L1": "400101",	"BACKBONE_DIV_NAME_L2": "AHEC - Administration - Program Office",	"BACKBONE_DIV_CODE_L2": "400101",	"CRSO_CRAU_NAME": "",	"CRSO_CRAU_CODE": "",	"CRSO_FINAL_DEPT_NAME": "Allied Health Sciences (AHS)",	"CRSO_FINAL_DIV_NAME": "AHEC - Administration - Program Office",	"IS_CENTER": "N",	"ORG_UNIT_TYPE": "Department"}
+  ]
+}
