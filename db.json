@@ -5,7 +5,27 @@
   ],
   "crau": [
     {
-      "CRAU_ID":7,	
+      "CRAU_ID":"7",	
+      "CRAU_NAME": "Radiology",
+      "CRAU_CODE":	"RAD",
+      "LINKS": [
+        "Radiology",
+        "Radiology - Research",
+        "Heart and Vascular - Vascular Interventional Radiology",
+        "Radiology - Breast Imaging",
+        "Radiology - Chest",
+        "Radiology - Interventional Neuroradiology",
+        "Radiology - Musculoskeletal Imaging",
+        "Radiology-Molecular Imaging and Therapeutics",
+        "Radiology - Neuroradiology",
+        "Radiology - Pediatric Imaging",
+        "Radiology - Residency Program",
+        "Radiology - Abdominal Imaging",
+        "Biomedical Research Imaging Center (BRIC)"
+      ]
+    },
+    {
+      "CRAU_ID":"7",	
       "CRAU_NAME": "Radiology",
       "CRAU_CODE":	"RAD",
       "LINKS": [
